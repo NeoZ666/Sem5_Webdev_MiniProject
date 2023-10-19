@@ -3,9 +3,8 @@ This is a Full stack job App made with MERN Stack, MUI, Datagrid, cookie, etc.
 ##### To use this app: clone this repo, in the root of bonus folder create a .env file with these variables PORT=9000 DATABASE=YOUR_MONGO_URL JWT_SECRET=fidbfbFCDSm1558 NODE_ENV=development if in development mode and NODE_ENV=production if you're deploying your App; after that, run "npm install" in the bonus root folder. Go inside frontend folder in bonus folder, run "npm install "
 
 ![dashboardjob](https://github.com/NeoZ666/Sem5_Webdev_MiniProject/assets/115883668/756a8ddc-c5f3-414d-b782-f0ab40bcfdb3)
-
-
-
+![jobportaledit](https://github.com/NeoZ666/Sem5_Webdev_MiniProject/assets/115883668/8e3ba9e8-c44b-4406-ba1e-d1d4108d66b6)
+![jobbg](https://github.com/NeoZ666/Sem5_Webdev_MiniProject/assets/115883668/3af63f82-fe30-4a5b-94bc-d5414a1dfadc)
 
 # Features:
 ##### - Software Architecture: MVC pattern;
